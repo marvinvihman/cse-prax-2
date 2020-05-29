@@ -11,3 +11,6 @@
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
+Build/* This is too big for GitHub and it is not necessary to put up, it depends on the core, which is put up
+
+
