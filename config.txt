@@ -6,7 +6,7 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = C:/Users/Marvin Vihman/Desktop/Ülikooli asjad/Koostöövahendid tarkvaraarenduses/cse-prax-2-server
+	url = C:/Users//Desktop/Ülikooli asjad/Koostöövahendid tarkvaraarenduses/cse-prax-2-server
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
